@@ -1,6 +1,6 @@
 # WorkAdventure Map Starter Kit
 
-![map](./map.png)
+![map](./office.png)
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
@@ -46,5 +46,5 @@ This project contains multiple licenses as follows:
 ### About third party assets
 
 If you add third party assets in your map, do not forget to:
-1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `map.json` file
+1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `office.json` file
 2. Add the license text in LICENSE.assets
